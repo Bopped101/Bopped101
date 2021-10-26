@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Bopped101
+- 👀 I’m interested in C++, python, C# ...
+- 🌱 I’m currently learning game hacking ...
+- 📫 How to reach me (Bop#2747) ...
+
+<!---
+Bopped101/Bopped101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
